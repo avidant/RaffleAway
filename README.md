@@ -6,7 +6,6 @@ RafffleAway is a simple Web Application developed by students at the University 
 
 ## About the authors
 
-- [Avidant Bhagat](https://students.washington.edu/avidant) is a Sophomore at the University of Washington studying Computer Science.
-- Aditya Jhamb is a Freshman at the University of Washington.
-- Abhyudaya Gupta is a Freshman at the University of Washington.
-
+- [Avidant Bhagat](https://students.washington.edu/avidant)(avidant@uw.edu) is a Sophomore at the University of Washington studying Computer Science.
+- Abhyudaya Gupta(ag98@uw.edu) is a Freshman at the University of Washington.
+- Aditya Jhamb(aditya97@uw.edu) is a Freshman at the University of Washington.
